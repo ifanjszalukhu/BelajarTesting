@@ -1,0 +1,17 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "unit testing with Jest",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Ifan Zalukhu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
